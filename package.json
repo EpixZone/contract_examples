@@ -1,0 +1,35 @@
+{
+  "name": "contract_examples",
+  "version": "1.0.0",
+  "description": "Yogi-themed smart contracts for Epix blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:token": "hardhat run scripts/deploy_yogi_token.js",
+    "deploy:nft": "hardhat run scripts/deploy_yogi_nft.js",
+    "deploy:multi": "hardhat run scripts/deploy_yogi_multi_token.js",
+    "deploy:token:testnet": "hardhat run scripts/deploy_yogi_token.js --network epixTestnet",
+    "deploy:nft:testnet": "hardhat run scripts/deploy_yogi_nft.js --network epixTestnet",
+    "deploy:multi:testnet": "hardhat run scripts/deploy_yogi_multi_token.js --network epixTestnet",
+    "deploy:token:mainnet": "hardhat run scripts/deploy_yogi_token.js --network epixMainnet",
+    "deploy:nft:mainnet": "hardhat run scripts/deploy_yogi_nft.js --network epixMainnet",
+    "deploy:multi:mainnet": "hardhat run scripts/deploy_yogi_multi_token.js --network epixMainnet"
+  },
+  "keywords": [
+    "epix",
+    "solidity",
+    "erc20",
+    "erc721",
+    "erc1155",
+    "yogi"
+  ],
+  "author": "Yogi",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^4.9.3",
+    "dotenv": "^16.5.0",
+    "hardhat": "^2.24.0"
+  }
+}
