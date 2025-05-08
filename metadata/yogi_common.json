@@ -1,0 +1,23 @@
+{
+  "name": "Yogi Common",
+  "description": "A common Yogi-themed collectible for the Epix blockchain",
+  "image": "https://raw.githubusercontent.com/EpixZone/contract_examples/refs/heads/main/metadata/Yogi-Coin.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Semi-Fungible Token"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Yogi Multi Token"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Epix"
+    }
+  ]
+}
