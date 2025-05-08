@@ -10,6 +10,20 @@ This repository contains examples of ERC-20, ERC-721, and ERC-1155 smart contrac
 - **YogiNFTCollection (ERC-721)**: [0x5434b91C0a104319B68e66399C1f4d53CEFc0Aa3](https://testscan.epix.zone/address/0x5434b91C0a104319B68e66399C1f4d53CEFc0Aa3)
 - **YogiMultiToken (ERC-1155)**: [0xE04461FD106aA44fB55980C97BAc3f07b9c1286d](https://testscan.epix.zone/address/0xE04461FD106aA44fB55980C97BAc3f07b9c1286d)
 
+### Token Metadata
+
+All tokens have custom metadata with Yogi-themed images. The metadata is hosted on GitHub and can be accessed at:
+
+- ERC-721 NFT: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/1.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/1.json)
+- ERC-1155 Tokens:
+  - Yogi Coin: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_coin.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_coin.json)
+  - Yogi Common: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_common.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_common.json)
+  - Yogi Rare: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_rare.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_rare.json)
+  - Yogi Epic: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_epic.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_epic.json)
+  - Yogi Legendary: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_legendary.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_legendary.json)
+  - Yogi Unique: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_unique.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_unique.json)
+  - Yogi Special Edition: [https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_special.json](https://raw.githubusercontent.com/EpixZone/contract_examples/main/metadata/yogi_special.json)
+
 ## Contracts Overview
 
 ### 1. YogiToken (ERC-20)
