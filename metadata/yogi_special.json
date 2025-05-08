@@ -1,7 +1,7 @@
 {
   "name": "Yogi Special Edition",
   "description": "A special edition Yogi-themed collectible for the Epix blockchain",
-  "image": "https://raw.githubusercontent.com/EpixZone/contract_examples/refs/heads/main/metadata/Yogi-Unique.jpg",
+  "image": "https://raw.githubusercontent.com/EpixZone/contract_examples/refs/heads/main/Yogi.jpg",
   "attributes": [
     {
       "trait_type": "Type",
