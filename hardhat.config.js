@@ -14,7 +14,7 @@ module.exports = {
     }, 
     epixMainnet: { 
       url: "https://evmrpc.epix.zone/", 
-      chainId: 1915, // Assuming mainnet chainId is 1915, adjust if different 
+      chainId: 1916, 
       accounts: [PRIVATE_KEY], 
     }, 
     hardhat: { 
