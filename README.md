@@ -2,7 +2,7 @@
 
 ![Yogi](Yogi.jpg)
 
-This repository contains examples of ERC-20, ERC-721, and ERC-1155 smart contracts designed for the Epix blockchain. All contracts are compatible with Solidity 0.8.18, as Epix does not support Solidity 0.8.20 and above.
+This repository contains examples of ERC-20, ERC-721, and ERC-1155 smart contracts designed for the Epix blockchain. These examples are pinned to Solidity 0.8.18 with OpenZeppelin 4.9. Epix also supports newer compilers: the official Epix contract kits compile with `^0.8.24`, so you can use 0.8.20 and above in your own contracts.
 
 ## Deployed Contracts (Epix Testnet)
 
